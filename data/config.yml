@@ -1,0 +1,3 @@
+port: 55000
+dbConfig:
+ dbConnectionStr: 'mongodb://dbuser:password@ds159998.mlab.com:59998/sprunk_meister'
